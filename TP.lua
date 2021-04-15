@@ -1,1 +1,1 @@
-print("wait)
+print("wait")
